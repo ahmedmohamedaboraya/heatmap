@@ -9,3 +9,8 @@ asgiref==3.7.2
 asttokens==2.4.1
 astunparse==1.6.3
 attrs==23.1.0
+face-recognition-ai==0.0.2
+termcolor==2.4.0
+ultralytics==8.1.47
+ultralytics-copy==0.0.1.dev0
+ultralytics-yolo==0.0.1
