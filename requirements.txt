@@ -125,7 +125,6 @@ rpds-py==0.13.2
 scikit-learn==1.3.2
 scipy==1.11.4
 seaborn==0.13.0
-setuptools==68.2.2
 six==1.16.0
 smmap==5.0.1
 sqlparse==0.4.4
@@ -162,7 +161,6 @@ watchdog==3.0.0
 wcwidth==0.2.12
 webdriver-manager==4.0.1
 Werkzeug==3.0.1
-wheel==0.42.0
 wrapt==1.16.0
 yarl==1.9.4
 yolo5face==0.0.5
