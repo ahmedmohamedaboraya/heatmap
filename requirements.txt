@@ -1,3 +1,4 @@
+Streamlit==1.29.0
 absl-py==2.1.0
 aiofiles==23.2.1
 aiogram==3.2.0
